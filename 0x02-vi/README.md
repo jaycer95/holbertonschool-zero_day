@@ -1,1 +1,1 @@
-# 0x02-vi
+*This project is about vi manipulation and commands*
