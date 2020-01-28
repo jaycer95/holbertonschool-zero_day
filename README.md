@@ -1,1 +1,1 @@
-*This is a project about vagrant and vm etc...*
+*This contains my project about vagrant , emacs , vi and git*
